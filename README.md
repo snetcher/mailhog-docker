@@ -1,3 +1,5 @@
+[![](https://images.microbadger.com/badges/image/skilldlabs/mailhog.svg)](https://microbadger.com/images/skilldlabs/mailhog "Get your own image badge on microbadger.com")
+
 # mailhog-docker
 MailHog in a tiny Docker image powered by Alpine Linux
 
