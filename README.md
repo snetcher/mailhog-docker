@@ -6,7 +6,7 @@ MailHog in a tiny Docker image powered by Alpine Linux
 Print help:
 
 ```bash
-docker run --rm diyan/mailhog --help
+docker run --rm skilldlabs/mailhog --help
 ```
 Run MailHog:
 
@@ -14,7 +14,7 @@ Run MailHog:
 docker run -d --name=mailhog \
   -p 1025:1025 \
   -p 8025:8025 \
-  diyan/mailhog
+  skilldlabs/mailhog
 ```
 Access to Web UI using your browser:
 
